@@ -1,0 +1,16 @@
+ccopy_reg
+_reconstructor
+p1
+(cgluon.globals
+Session
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'm'
+(lp5
+S'{"probability": {"neg": 0.52009759518821097, "neutral": 0.38868247821422969, "pos": 0.47990240481178897}, "label": "neg"}'
+p6
+astRp7
+.
