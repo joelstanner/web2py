@@ -1,0 +1,22 @@
+ccopy_reg
+_reconstructor
+p1
+(cgluon.globals
+Session
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'm'
+(lp5
+S"reese's peanut butter"
+p6
+aS'{"probability": {"neg": 0.43569037309040337, "neutral": 0.45022964691454703, "pos": 0.56430962690959663}, "label": "pos"}'
+p7
+aS'twix'
+p8
+aS'{"probability": {"neg": 0.47585207298774623, "neutral": 0.59508906140405482, "pos": 0.52414792701225377}, "label": "neutral"}'
+p9
+astRp10
+.
