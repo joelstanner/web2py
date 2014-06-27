@@ -2261,3 +2261,5 @@
 127.0.0.1, 2014-06-27 15:56:50, GET, /favicon.ico, HTTP/1.1, 400, 0.001680
 127.0.0.1, 2014-06-27 15:57:12, POST, /movie_suggest/default/grab_movies, HTTP/1.1, 200, 5.744610
 127.0.0.1, 2014-06-27 16:33:13, POST, /movie_suggest/default/grab_movies, HTTP/1.1, 200, 12.460760
+127.0.0.1, 2014-06-27 16:45:07, GET, /movie_suggest/default/index, HTTP/1.1, 200, 0.074346
+127.0.0.1, 2014-06-27 16:45:07, GET, /favicon.ico, HTTP/1.1, 400, 0.001462
